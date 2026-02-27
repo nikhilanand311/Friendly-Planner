@@ -1,8 +1,8 @@
-# TaskFlow Pro — Smart Task Management App
+# Friendly Planner — Smart Task Management App
 
 <div align="center">
 
-![TaskFlow Pro](https://img.shields.io/badge/TaskFlow%20Pro-Task%20Management-6366f1?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Friendly Planner](https://img.shields.io/badge/Friendly%20Planner-Task%20Management-6366f1?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -11,7 +11,7 @@
 
 </div>
 
-TaskFlow Pro is a comprehensive full-stack task management application built with **Flutter** (mobile frontend) and **Node.js/Express** (backend). It combines powerful task management with AI-powered assistance, detailed productivity analytics, smart notifications, calendar integration, and social sharing — all wrapped in a beautifully designed, theme-customizable UI.
+ Friendly Planner is a comprehensive full-stack task management application built with **Flutter** (mobile frontend) and **Node.js/Express** (backend). It combines powerful task management with AI-powered assistance, detailed productivity analytics, smart notifications, calendar integration, and social sharing — all wrapped in a beautifully designed, theme-customizable UI.
 
 <br>
 
@@ -35,7 +35,7 @@ TaskFlow Pro is a comprehensive full-stack task management application built wit
 
 ## 📖 About
 
-TaskFlow Pro is a feature-rich, production-ready task management platform designed to maximize personal productivity. Built as a full-stack mobile application, it connects a polished Flutter frontend to a secure, scalable Node.js REST API backed by Firebase.
+Friendly Planner is a feature-rich, production-ready task management platform designed to maximize personal productivity. Built as a full-stack mobile application, it connects a polished Flutter frontend to a secure, scalable Node.js REST API backed by Firebase.
 
 The platform helps users:
 - Create, organize, and prioritize tasks with rich metadata (categories, priorities, due dates, tags)
@@ -358,7 +358,7 @@ taskflow_pro/
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd taskflow_pro/backend
+   cd Friendly Planner/backend
    ```
 
 2. **Install dependencies**
@@ -409,7 +409,7 @@ taskflow_pro/
 
 1. **Navigate to the project root**
    ```bash
-   cd taskflow_pro
+   cd Friendly Planner
    ```
 
 2. **Install Flutter dependencies**
@@ -638,7 +638,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2026 TaskFlow Pro
+Copyright (c) 2026 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -708,3 +708,4 @@ THE SOFTWARE.
 **Built with ❤️ for maximum personal productivity**
 
 </div>
+
